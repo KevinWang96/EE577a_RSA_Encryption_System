@@ -1,0 +1,9 @@
+(envOpts autoDisplay) t
+(envOpts cmd64bit) t
+(envOpts interactiveCtrFile) ""
+(envOpts netlistFormat) "spectre"
+(envOpts printComments) (nil nil)
+(envOpts runMode) "Batch"
+(envOpts stopViewList) ("spectre")
+(envOpts switchViewList) ("spectre" "cmos_sch" "cmos.sch" "schematic" "veriloga")
+(envOpts userCmdLineOption) ""

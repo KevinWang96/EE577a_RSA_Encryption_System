@@ -1,0 +1,16 @@
+UltraSimEVcdAutostop nil
+UltraSimEVcdFile ""
+UltraSimEVcdInfo ""
+UltraSimHlcheck "0"
+UltraSimVcdAutostop nil
+UltraSimVcdFile ""
+UltraSimVcdInfo ""
+UltraSimVecAutostop nil
+UltraSimVectorFile ("/home/viterbi/00/yihao/vec_ME/super_test_20ns.vec")
+allDefinitionFiles nil
+allIncludedPaths nil
+allStimulusFiles nil
+allUltraSimVectorFile ((t "/home/viterbi/00/yihao/vec_ME/super_test_20ns.vec" "0"))
+definitionFiles nil
+includePath ""
+stimulusFile nil

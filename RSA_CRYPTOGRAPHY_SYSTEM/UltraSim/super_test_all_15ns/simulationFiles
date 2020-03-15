@@ -1,0 +1,16 @@
+UltraSimEVcdAutostop nil
+UltraSimEVcdFile ""
+UltraSimEVcdInfo ""
+UltraSimHlcheck "0"
+UltraSimVcdAutostop nil
+UltraSimVcdFile ""
+UltraSimVcdInfo ""
+UltraSimVecAutostop nil
+UltraSimVectorFile ("/home/viterbi/00/yihao/vec_final/super_test_final_all_15.vec")
+allDefinitionFiles nil
+allIncludedPaths nil
+allStimulusFiles nil
+allUltraSimVectorFile ((nil "/home/viterbi/00/yihao/vec_final/super_test_final_0.vec" "0") (nil "/home/viterbi/00/yihao/vec_final/super_test_final_1.vec" "0") (nil "/home/viterbi/00/yihao/vec_final/super_test_final_all_20ns.vec" "0") (t "/home/viterbi/00/yihao/vec_final/super_test_final_all_15.vec" "0"))
+definitionFiles nil
+includePath ""
+stimulusFile nil
